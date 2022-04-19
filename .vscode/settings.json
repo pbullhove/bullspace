@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cc895e0d-da6f-4e95-9916-a233a628473d/resourceGroups/bullspace-blog/providers/Microsoft.Web/sites/bullspace",
+    "appService.deploySubpath": "bullspace-app"
+}
